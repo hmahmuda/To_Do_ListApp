@@ -30,7 +30,7 @@ This project demonstrates practical implementation of Java Swing, Event Handling
 ✔ User-friendly GUI
 ✔ Modular class structure
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Programming Language: Java
 
@@ -48,7 +48,7 @@ Event Handling
 
 Class & Object Design
 
-🏗 Project Structure
+# 🏗 Project Structure
 ToDoList/
 │
 ├── AppFrame.java        # Main application window
@@ -118,7 +118,7 @@ Structuring large programs into multiple classes
 
 Implementing task management logic
 
-📌 Future Improvements
+# 📌 Future Improvements
 
 Data persistence using file handling or database
 
@@ -130,7 +130,7 @@ Search & filter functionality
 
 Cloud synchronization
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Mahmuda Sultana
 BSc in Computer Science & Engineering
