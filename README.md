@@ -1,54 +1,47 @@
 # To_Do_ListApp
-This project is a desktop-based To-Do List application developed using Java (Swing GUI) in Apache NetBeans. The application helps users efficiently manage daily tasks through an interactive and user-friendly interface.
-# 📖 Project Overview
 
-The Java To-Do List Application allows users to add, manage, and track their daily tasks.
-It is built following Object-Oriented Programming (OOP) principles and modular design structure.
+This project is a desktop-based To-Do List application developed using Java (Swing GUI) in Apache NetBeans. The application helps users efficiently manage daily tasks through an interactive and user-friendly interface.
+
+## 📖 Project Overview
+
+The Java To-Do List Application allows users to add, manage, and track their daily tasks. It is built following Object-Oriented Programming (OOP) principles and modular design structure.
 
 The application includes advanced features such as:
 
-Due Date & Time selection
-
-Task Priority Levels (High, Medium, Low)
-
-Reminder/Notification mechanism
-
-Mark task as completed
-
-Delete tasks
+- Due Date & Time selection
+- Task Priority Levels (High, Medium, Low)
+- Reminder/Notification mechanism
+- Mark task as completed
+- Delete tasks
 
 This project demonstrates practical implementation of Java Swing, Event Handling, and OOP concepts.
 
-# 🚀 Features
+## 🚀 Features
 
-✔ Add new tasks
-✔ Delete tasks
-✔ Mark tasks as completed
-✔ Assign priority (High / Medium / Low)
-✔ Set due date and time
-✔ Reminder/Alert system
-✔ User-friendly GUI
-✔ Modular class structure
+- ✔ Add new tasks
+- ✔ Delete tasks
+- ✔ Mark tasks as completed
+- ✔ Assign priority (High / Medium / Low)
+- ✔ Set due date and time
+- ✔ Reminder/Alert system
+- ✔ User-friendly GUI
+- ✔ Modular class structure
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
-Programming Language: Java
+- **Programming Language:** Java
+- **GUI Framework:** Java Swing
+- **IDE:** Apache NetBeans
 
-GUI Framework: Java Swing
+**Concepts Used:**
+- Object-Oriented Programming (OOP)
+- Encapsulation
+- Event Handling
+- Class & Object Design
 
-IDE: Apache NetBeans
+## 🏗 Project Structure
 
-Concepts Used:
-
-Object-Oriented Programming (OOP)
-
-Encapsulation
-
-Event Handling
-
-Class & Object Design
-
-# 🏗 Project Structure
+```
 ToDoList/
 │
 ├── AppFrame.java        # Main application window
@@ -57,81 +50,72 @@ ToDoList/
 ├── Task.java            # Task object structure
 ├── Footer.java          # Input and control panel
 └── ToDoList.java        # Main class (Program entry point)
-⚙ Installation & Setup
-🔹 Prerequisites
+```
 
-Java JDK (version 8 or higher)
+## ⚙ Installation & Setup
 
-Apache NetBeans IDE
+### 🔹 Prerequisites
 
-🔹 Steps to Run the Project
+- Java JDK (version 8 or higher)
+- Apache NetBeans IDE
 
-Clone the repository:
+### 🔹 Steps to Run the Project
 
+1. Clone the repository:
+```bash
 git clone https://github.com/your-username/your-repository-name.git
+```
 
-Open Apache NetBeans.
+2. Open Apache NetBeans.
 
-Click File → Open Project.
+3. Click **File → Open Project**.
 
-Select the downloaded project folder.
+4. Select the downloaded project folder.
 
-Right-click on ToDoList.java.
+5. Right-click on **ToDoList.java**.
 
-Click Run File.
+6. Click **Run File**.
 
-The application window will open.
+7. The application window will open.
 
-🖥 How It Works
+## 🖥 How It Works
 
-Enter task name in the input field.
+1. Enter task name in the input field.
+2. Select priority level.
+3. Set due date and time (if required).
+4. Click Add Task.
+5. Mark task as completed when finished.
+6. Delete task if no longer needed.
 
-Select priority level.
-
-Set due date and time (if required).
-
-Click Add Task.
-
-Mark task as completed when finished.
-
-Delete task if no longer needed.
-
-📸 Screenshots
+## 📸 Screenshots
 
 Add screenshots of your application here.
 
-Example:
+**Example:**
 
 ![Main Interface](screenshots/main.png)
 ![Task Added](screenshots/task_added.png)
-🎯 Learning Outcomes
+
+## 🎯 Learning Outcomes
 
 Through this project, I learned:
 
-Building GUI applications using Java Swing
+- Building GUI applications using Java Swing
+- Applying OOP concepts in real projects
+- Handling user events and actions
+- Structuring large programs into multiple classes
+- Implementing task management logic
 
-Applying OOP concepts in real projects
+## 📌 Future Improvements
 
-Handling user events and actions
+- Data persistence using file handling or database
+- Dark mode theme
+- Edit/update existing tasks
+- Search & filter functionality
+- Cloud synchronization
 
-Structuring large programs into multiple classes
+## 👩‍💻 Author
 
-Implementing task management logic
-
-# 📌 Future Improvements
-
-Data persistence using file handling or database
-
-Dark mode theme
-
-Edit/update existing tasks
-
-Search & filter functionality
-
-Cloud synchronization
-
-# 👩‍💻 Author
-
-Mahmuda Sultana
-BSc in Computer Science & Engineering
-Metropolitan University, Sylhet
+**Mahmuda Sultana**
+- BSc in Computer Science & Engineering
+- Metropolitan University, Sylhet
