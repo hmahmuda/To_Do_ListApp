@@ -1,6 +1,6 @@
 # To_Do_ListApp
 This project is a desktop-based To-Do List application developed using Java (Swing GUI) in Apache NetBeans. The application helps users efficiently manage daily tasks through an interactive and user-friendly interface.
-📖 Project Overview
+# 📖 Project Overview
 
 The Java To-Do List Application allows users to add, manage, and track their daily tasks.
 It is built following Object-Oriented Programming (OOP) principles and modular design structure.
@@ -19,7 +19,7 @@ Delete tasks
 
 This project demonstrates practical implementation of Java Swing, Event Handling, and OOP concepts.
 
-🚀 Features
+# 🚀 Features
 
 ✔ Add new tasks
 ✔ Delete tasks
